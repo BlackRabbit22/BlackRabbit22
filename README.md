@@ -16,7 +16,7 @@
       <img src="https://skillicons.dev/icons?i=vscode,rider,sublime,neovim" />
     <h3>🌩️ Top Projects:</h3>
   </div>
-    <div>
+    <div align="center">
       <a href="https://github.com/BlackRabbit22/ProtonDB-Peek">
         <img
           height="150"
