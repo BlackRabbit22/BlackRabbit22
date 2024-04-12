@@ -10,11 +10,11 @@
       media="(prefers-color-scheme:light)"
     />
     <a />
-    <h3>🌩️ Languages:</h3>
+    <h3>⌨️ Languages:</h3>
       <img src="https://skillicons.dev/icons?i=cs,java,mysql,sqlite,javascript,html,css,php,python,bash" />
-    <h3>🌩️ Tools:</h3>
+    <h3>🧰 Tools:</h3>
       <img src="https://skillicons.dev/icons?i=vscode,rider,sublime,neovim,git,linux" />
-    <h3>🌩️ Top Projects:</h3>
+    <h3>🚧 Top Projects:</h3>
   </div>
     <div align="center">
       <a href="https://github.com/BlackRabbit22/ProtonDB-Peek">
