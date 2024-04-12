@@ -16,19 +16,19 @@
         <img
           height="150"
           alt="ProtonDB-Peek"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=ProtonDB-Peek&theme=dracula&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=ProtonDB-Peek&hide_border=true&theme=dracula"
       /></a>
       <a href="https://github.com/BlackRabbit22/employee-scheduler">
         <img
           height="150"
           alt="Employee-Scheduler"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=employee-scheduler&theme=dracula&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=employee-scheduler&hide_border=true&theme=dracula"
       /></a>
       <a href="https://github.com/BlackRabbit22/Squeak">
         <img
           height="150"
           alt="Squeak"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=squeak&theme=dracula&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=squeak&hide_border=true&theme=dracula"
       /></a>
     </div>
   </a>
