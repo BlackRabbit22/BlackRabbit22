@@ -11,7 +11,7 @@
     />
     <a />
     <h3>🌩️ Languages:</h3>
-      <img src="https://skillicons.dev/icons?i=cs,java,sql,javascript,html,css,php,python,bash" />
+      <img src="https://skillicons.dev/icons?i=cs,java,mysql,sqlite,javascript,html,css,php,python,bash" />
     <h3>🌩️ Tools:</h3>
       <img src="https://skillicons.dev/icons?i=vscode,rider,sublime,neovim" />
     <h3>🌩️ Top Projects:</h3>
