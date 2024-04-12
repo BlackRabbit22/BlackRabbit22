@@ -11,7 +11,7 @@
     />
     <a />
     <h3>🌩️ Top Projects:</h3>
-    <div align="center">
+    <div >
       <a href="https://github.com/BlackRabbit22/ProtonDB-Peek">
         <img
           height="150"
