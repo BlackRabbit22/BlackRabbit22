@@ -31,7 +31,7 @@
       /></a>
       <a href="https://github.com/BlackRabbit22/Squeak">
         <img
-          height="150"
+          height="129"
           alt="Squeak"
           src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=squeak&hide_border=true&theme=dracula"
       /></a>
