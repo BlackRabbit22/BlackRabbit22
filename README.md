@@ -10,8 +10,13 @@
       media="(prefers-color-scheme:light)"
     />
     <a />
+    <h3>🌩️ Languages:</h3>
+      <img src="https://skillicons.dev/icons?i=cs,java,sql,javascript,html,css,php,python,bash" />
+    <h3>🌩️ Tools:</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,rider,sublime,neovim" />
     <h3>🌩️ Top Projects:</h3>
-    <div align="center">
+  </div>
+    <div>
       <a href="https://github.com/BlackRabbit22/ProtonDB-Peek">
         <img
           height="150"
@@ -30,6 +35,5 @@
           alt="Squeak"
           src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRabbit22&repo=squeak&hide_border=true&theme=dracula"
       /></a>
-    </div>
   </a>
 </div>
